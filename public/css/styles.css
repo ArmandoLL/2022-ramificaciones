@@ -5,8 +5,12 @@ html,body,h1,h2.h3,h4,h5,h6,p{
     padding: 0;
 }
 .menu {}
-.sub-menu{}
-.tittle{}
+.sub-menu{
+    font-size: x-small;
+}
+.tittle{
+    font-weight: bolder;
+}
 .carel{}
 
 .negrita{
@@ -14,14 +18,6 @@ html,body,h1,h2.h3,h4,h5,h6,p{
 }
 .cursiva{
     font-style: italic;
-}
-.subrayado{
-    text-decoration: underline;
-}
-
-h1.tittle{
-    font-size: 2em;
-
 }
 
 .subtittle {
